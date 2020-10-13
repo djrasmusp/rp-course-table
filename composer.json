@@ -1,0 +1,16 @@
+{
+    "name": "rasmuspedersen/rp-course-table",
+    "description": "Techical test for Erhvervshjemmesider.dk",
+    "authors": [
+        {
+            "name": "Rasmus P",
+            "email": "hello@rasmusp.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Course_Table\\": "./app"
+        }
+    }
+}
